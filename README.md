@@ -1,0 +1,4 @@
+This dataset accompanies the paper “Requirements-based Test Case Generation: A Comprehensive Survey” and contains the complete results of the systematic literature review (SLR) on requirements-based test case generation (RBTG). The dataset is provided in Excel format (SLR_on_RBTG.xlsx) and includes bibliographic metadata, extracted information, and classification results for all primary studies analyzed in the review.
+
+Specifically, the dataset records publication details (title, authors, venue, year, DOI), requirement representations, test generation strategies, intermediate models, types of generated test cases, evaluation methods, and application domains. These data were systematically extracted following predefined research questions (RQ1–RQ8) to ensure transparency and reproducibility.
+
